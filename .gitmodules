@@ -1,0 +1,3 @@
+[submodule "external/EpicEditor"]
+	path = external/EpicEditor
+	url = https://github.com/OscarGodson/EpicEditor.git
